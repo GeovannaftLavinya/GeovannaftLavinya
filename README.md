@@ -1,3 +1,6 @@
+# About us
+
+
 - 👋 Hi, I’m @GeovannaftLavinya
 - 👀 I’m interested in games
 - 🌱 I’m currently learning Scracth & JavaScript
